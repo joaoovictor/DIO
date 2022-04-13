@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(180, 180, 180);
+}
+
+.navbar {
+    background-color: white;
+}
+.logo{
+    margin-left: 50px;
+}
