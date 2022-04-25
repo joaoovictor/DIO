@@ -65,7 +65,7 @@ class ContaUniversitaria extends ContaBancaria {
         if (valor > 500){
            return "Só é autorizado o saque de no máximo R$500 para contas universitárias";
         } else {
-            this.valor -= valor;
+            this.valor -= valor ;
         }
     }
 }
