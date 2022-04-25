@@ -19,4 +19,4 @@ const loadImg = async () => {
 
 dogBtn.addEventListener('click', loadImg);
 
-loadImg;
+loadImg();
