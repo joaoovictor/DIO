@@ -1,6 +1,6 @@
-### DIO :computer::heavy_heart_exclamation:
+# DIO :computer::heavy_heart_exclamation:
 
-### O que é isso?
+## O que é isso?
 
 - Um Repositório criado para armazenar todas as conquistas na plataforma DIO! 
 
